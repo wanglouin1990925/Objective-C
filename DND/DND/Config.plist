@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tutorial</key>
+	<dict>
+		<key>Images</key>
+		<array>
+			<string>bg_1.jpg</string>
+			<string>bg_2.jpg</string>
+			<string>bg_3.jpg</string>
+			<string>bg_4.jpg</string>
+			<string>bg_5.jpg</string>
+		</array>
+		<key>Labels</key>
+		<array>
+			<dict>
+				<key>Header</key>
+				<string></string>
+				<key>Label</key>
+				<string>Tell users your application purpose</string>
+			</dict>
+			<dict>
+				<key>Header</key>
+				<string>Killer feature</string>
+				<key>Label</key>
+				<string>This application provide you a feature no other give you</string>
+			</dict>
+			<dict>
+				<key>Header</key>
+				<string>Credit author</string>
+				<key>Label</key>
+				<string>You can always credit author if you use an open source component.</string>
+			</dict>
+			<dict>
+				<key>Header</key>
+				<string>Feedback</string>
+				<key>Label</key>
+				<string>It&apos;s always a good thing to give some feedback about a control. Author will be happy to hear from you.</string>
+			</dict>
+			<dict>
+				<key>Header</key>
+				<string>Get in touch</string>
+				<key>Label</key>
+				<string>If you want to get in touch, feel free to send an email to contact@appsido.com</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
